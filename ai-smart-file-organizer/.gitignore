@@ -1,0 +1,4 @@
+__pycache__/
+*.log
+.env
+a i_progress.json
